@@ -1,8 +1,10 @@
 ## CRUD PENJUALAN BARANG TOKO - CAPSTONE PURWADHIKA MODUL 1
 
-Capstone project for additional portfolio Purwadhika Data Science Modul 1 (JCDSOL-014) 2024 
+**PURWADHIKA JOB CONNECTOR DATA SCIENCE ONLINE LEARNING (JCDSOL-014) 2024**
 
-Dibuat oleh : Indah Widya Putri
+Capstone project for additional portfolio Modul 1
+
+Created by : Indah Widya Putri
 
 **Program ini bertujuan untuk user dapat mengakses data inventory barang di Toko Dena yang terdiri dari barang kecantikan seperti Skincare dan Makeup**
 
