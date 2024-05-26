@@ -2,8 +2,6 @@
 
 **PURWADHIKA JOB CONNECTOR DATA SCIENCE ONLINE LEARNING (JCDSOL-014) 2024**
 
-Capstone project for additional portfolio Modul 1
-
 Created by : Indah Widya Putri
 
 **Program ini bertujuan untuk user dapat mengakses data inventory barang di Toko Dena yang terdiri dari barang kecantikan seperti Skincare dan Makeup**
