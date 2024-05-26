@@ -21,7 +21,7 @@ Detail data kolom diatas pada program akan dikemas dalam dictionary
 Pada program ini terdapat beberapa bagian menu yang terintegrasi di dalam main menu
 
 ## MAIN MENU
-Main menu akan menghubungkan seluruh sub-menu yang ada dalam program ini
+Main menu akan menghubungkan seluruh sub-menu yang ada dalam program ini. Terdapat 2 main-menu yang ada dalam program ini, yaitu menu untuk masuk sebagai staf toko yang selnjutnya user akan masuk ke menu untuk mengakses seluruh sub-menu
 
 ## SUB-MENU READ
 Sub-Menu Read akan menampilkan data barang toko yang dikemas dalam sebuah dictionary. Pada bagian menu ini user mendapatkan 2 pilihan, yaitu menampilkan seluruh data barang atau menampilkan data barang tertentu sesuai keys barang yang di input dalam program
