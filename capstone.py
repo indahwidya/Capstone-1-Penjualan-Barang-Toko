@@ -114,10 +114,10 @@ def update_barang():
 def menu_update():
     if len(list(stok_barang.keys())) > 0:
         while True:
-            menuCreate = int(input('Menu Update Barang : \n1. Update data barang \n2. Kembali ke Menu sebelumnya \n\nSilahkan masukkan nomor menu: '))
-            if menuCreate == 1:
+            menuUpdate = int(input('Menu Update Barang : \n1. Update data barang \n2. Kembali ke Menu sebelumnya \n\nSilahkan masukkan nomor menu: '))
+            if menuUpdate == 1:
                 update_barang()
-            elif menuCreate== 2:
+            elif menuUpdate == 2:
                 staf()
             else:
                 print('Menu yang diinput tidak valid, mohon masukkan menu kembali')
