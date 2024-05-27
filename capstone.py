@@ -231,6 +231,4 @@ def menuUtama():
         else:
             print('Pilihan yang dimasukkan tidak ada, silahkan masukkan pilihan yang benar')
 
-
-
 menuUtama()
